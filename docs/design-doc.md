@@ -4,6 +4,9 @@
 
 This simple project is about adding the tasks in todo list board and view it by any user who joins the board.
 
+### Views and Components
+<img alt="views and components" src="./images/architecture.png" width="80%">
+
 ## Context
 
 ### Goal
